@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Week4</string>
+    <string-array name="countries_array">
+        <item>Afghanistan</item>
+        <item>Australia</item>
+        <item>American</item>
+        <item>Algeria</item>
+        <item>Argentina</item>
+        <item>Angola</item>
+        <item>Aruba</item>
+        <item>Azerbaijan</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Berlgium</item>
+        <item>Belarus</item>
+        <item>Bahrain</item>
+        <item>Angola</item>
+        <item>Aruba</item>
+        <item>Azerbaijan</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Berlgium</item>
+        <item>Belarus</item>
+        <item>Bahrain</item>
+    </string-array>
+
+    <string-array name="planets_array">
+        <item>Merkurius</item>
+        <item>Venus</item>
+        <item>Bumi</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturnus</item>
+        <item>Uranus</item>
+        <item>Neptunus</item>
+    </string-array>
+
+</resources>

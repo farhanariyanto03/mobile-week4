@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/recyclerView_menu"
+        android:title="Recycler View"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/spinner_menu"
+        android:title="Spinner"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/autoComplete_menu"
+        android:title="AutoComplete"
+        app:showAsAction="never"/>
+</menu>
